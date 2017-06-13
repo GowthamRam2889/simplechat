@@ -1,5 +1,5 @@
-# This is a simplechat application
+# This is a simple chat application
 
-A simple attempt to learn some Node and do a full stack application. 
+A simple attempt to learn some Node and do a full stack application.
 
-FYI, Needs lots of enhancements. 
+FYI, lots of opportunities for enhancements.
