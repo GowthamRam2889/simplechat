@@ -20,7 +20,6 @@ window.onload = function() {
             console.log("There is a problem:", data);
         }
     });
-
     sendButton.onclick = function() {
         if(name.value == "") {
             alert("Please type your name!");
@@ -29,5 +28,4 @@ window.onload = function() {
             socket.emit('send', { message: text, username: name.value });
         }
     };
-
 }
