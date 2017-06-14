@@ -1,11 +1,13 @@
 {
-    "name": "RealTimeWebChat",
-    "version": "0.0.1",
-    "description": "Real time web chat",
-    "dependencies": {
-        "socket.io": "latest",
-        "express": "latest",
-        "jade": "latest"
-    },
-    "author": "Gowtham Ram"
+  "name": "RealTimeWebChat",
+  "version": "0.0.1",
+  "description": "Real time web chat",
+  "dependencies": {
+    "all-the-cities": "^2.0.0",
+    "browser-location": "^1.0.1",
+    "express": "latest",
+    "jade": "latest",
+    "socket.io": "latest"
+  },
+  "author": "Gowtham Ram"
 }

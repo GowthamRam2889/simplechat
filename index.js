@@ -16,5 +16,4 @@ io.sockets.on('connection', function (socket) {
         io.sockets.emit('message', data);
     });
 });
-
 console.log("Listening on port " + port);
